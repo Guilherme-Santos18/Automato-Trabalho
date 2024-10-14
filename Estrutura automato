@@ -1,1 +1,14 @@
+AutomatoSimulator/
+│
+├── src/
+│   ├── Automato.java
+│   ├── Transicao.java
+│   ├── Simulador.java
+│   └── ArquivoUtils.java
+│
+├── tests/
+│   ├── automato.txt
+│   └── testes.txt
+│
+└── README.md
 
